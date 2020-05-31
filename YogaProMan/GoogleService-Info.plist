@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>987442439416-s55hgp7rmgmjs3ngjidnmp5qb55sr3ll.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.987442439416-s55hgp7rmgmjs3ngjidnmp5qb55sr3ll</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDAI7vobdBfbFHsbpIeZprP7mPEkSo1evE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>987442439416</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>PROJECT_ID</key>
+	<string>fitnessman-df8bf</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fitnessman-df8bf.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:987442439416:ios:ee376f240628abcb</string>
+	<key>DATABASE_URL</key>
+	<string>https://fitnessman-df8bf.firebaseio.com</string>
+</dict>
+</plist>
